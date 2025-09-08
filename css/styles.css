@@ -129,14 +129,6 @@ img {
   padding-bottom: 188px;
 }
 
-.hero-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 600px;
-}
-
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -147,7 +139,7 @@ img {
   display: flex;
   max-width: 496px;
   flex-wrap: wrap;
-  margin-bottom: 48px;
+  margin: 0 auto 48px;
 }
 
 .hero-button {
